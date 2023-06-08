@@ -7,10 +7,10 @@
 ### Puedes emplear las imágenes que desees, adjunté algunas para uso práctico!
 
 ## En este proyecto se emplean las siguientes librerías de Python:
-### opencv-python 
-### numpy
-### dlib
-### face_recognition
+### 1. opencv-python 
+### 2. numpy
+### 3. dlib
+### 4. face_recognition
 
 # Reconocimiento ejemplo:
 
