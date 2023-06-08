@@ -3,8 +3,8 @@
 ![image](https://github.com/AngeloCastilloPerez/Facial_Recognition/assets/107339963/514e9cb0-05fe-4739-982a-6540dfda883d)
 
 ## Descripción del proyecto:
-### En este proyecto crearemos un sistema de asistencia mediante reconocimiento facial, debemos tener una camara en nuestro orndenador para poder concluir con exito este proyecto!. Los detalles los encontraras en el archivo Asistencia.PY
-### Puedes emplear las imageens que desees, adjunte algunas para uso práctico!
+### En este proyecto crearemos un sistema de asistencia mediante reconocimiento facial, debemos tener una cámara en nuestro orndenador para poder concluir con éxito este proyecto!. Los detalles los encontrarás en el archivo Asistencia.PY
+### Puedes emplear las imágenes que desees, adjunté algunas para uso práctico!
 
 ## En este proyecto se emplean las siguientes librerías de Python:
 ### opencv-python 
