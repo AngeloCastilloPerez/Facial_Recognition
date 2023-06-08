@@ -24,6 +24,10 @@
 https://github.com/AngeloCastilloPerez/Facial_Recognition/new/main?readme=1
 
 Nota: Si tienes problemas con la librería OPENCV-PYTHON, debes instalar su versión 4.5.4.58
+
+
+
+
 <a href="https://www.instagram.com/angelocastilloperz/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
